@@ -1,7 +1,7 @@
 
 # 🛡️ Laboratório Prático: Pós-Exploração, Espelhamento e Keylogger com Metasploit
 
-Neste repositório, estou documentando o passo a passo da execução prática do meu laboratório de pós-exploração em cibersegurança ética. Montei um ambiente isolado utilizando o VirtualBox para entender na prática como funcionam a criação de payloads, o estabelecimento de conexões reversas, a captura de tela e o monitoramento de digitação[cite: 2, 11, 14].
+Neste repositório, estou documentando o passo a passo da execução prática do meu laboratório de pós-exploração em cibersegurança ética. Montei um ambiente isolado utilizando o VirtualBox para entender na prática como funcionam a criação de payloads, o estabelecimento de conexões reversas, a captura de tela e o monitoramento de digitação .
 
 ---
 
@@ -75,7 +75,8 @@ meterpreter > keyscan_stop
 
 ## 🛡️ Lições Aprendidas e Alertas de Segurança
 
-Fazer esse laboratório me abriu os olhos para a importância de mantermos os sistemas protegidos. Aprendi que:
+Fazer esse laboratório me abriu os olhos para a importância de mantermos os sistemas protegidos.
+ Aprendi que:
 
 1. **Atualização Constante (Patch Management):** Sistemas operacionais sem suporte e desatualizados (como o Windows 7 que usei no teste) são alvos fáceis porque acumulam vulnerabilidades conhecidas.
 2. **Proteção por Antivírus e EDR:** Soluções de segurança modernas ajudam a bloquear a execução de binários desconhecidos e evitam que ameaças rodem livremente na máquina.
